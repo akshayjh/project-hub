@@ -11,7 +11,7 @@ Some of the interesting projects that i've worked on and working on ,can be foun
  6. Recipe recommendation engine .
  7. Disease prediction .
  8. Detecting fradulent transactions .
- 9. Predicting stock market returns .
+ 9. (Predicting stock market returns)[https://github.com/bharathgs/project-hub/tree/master/Predicting%20stock%20market%20returns] 
  10. Geospatial and Temporal Data Analysis .
  11. Analyzing Neuro imaging Data.
  12. Estimating Financial Risk through Monte Carlo Simulation .
