@@ -15,3 +15,4 @@ Some of the interesting projects that i've worked on and working on ,can be foun
  10. Geospatial and Temporal Data Analysis .
  11. Analyzing Neuro imaging Data.
  12. Estimating Financial Risk through Monte Carlo Simulation .
+ 13. Classifying microarray samples .
